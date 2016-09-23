@@ -7,3 +7,4 @@ DO NOT commit without first reviewing these
 4. Any unconventionally named parts within the main assembly folder and lower on the master will be deleted
 5. Document any parts you create on the excel spreadsheet.
 6. ANY EXEPTIONS WILL BE DELETED
+7. if you have any issues with executing any of the following tasks, please ask on slack for help under #Design
