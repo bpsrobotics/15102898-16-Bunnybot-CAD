@@ -1,0 +1,14 @@
+
+********Reconnect Wire Pins (Tuesday, October 11, 2016 - 10:19 PM)
+All dangling wire pins could not be reconnected. There is no connector has been assigned a RefDes in the harness assembly.
+********Reconnect Wire Pins complete: 0 Wire Pins, 4 errors, 0 warnings.
+
+********Reconnect Wire Pins (Tuesday, October 11, 2016 - 10:20 PM)
+All dangling wire pins could not be reconnected. There is no connector has been assigned a RefDes in the harness assembly.
+********Reconnect Wire Pins complete: 0 Wire Pins, 4 errors, 0 warnings.
+
+********Reconnect Wire Pins (Tuesday, October 11, 2016 - 10:20 PM)
+********Reconnect Wire Pins complete: 1 Wire Pins, 0 errors, 0 warnings.
+
+********Reconnect Wire Pins (Tuesday, October 11, 2016 - 10:21 PM)
+********Reconnect Wire Pins complete: 1 Wire Pins, 0 errors, 0 warnings.
